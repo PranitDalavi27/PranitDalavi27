@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanyakulkarni2k2&label=Profile%20views&color=0e75b6&style=flat" alt="PrantDalavi27" /> </p>
 
-- 🔭 I’m currently working on *MERN STACK*
+- 🔭 I’m currently working on *MERN STACK Project*
 
 - 🌱 I’m currently learning *DSA and Web Development*
 
@@ -18,6 +18,7 @@
 <!-- https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg -->
 <p align="left">              
 <a href="https://auth.geeksforgeeks.org/user/pranitdalavi2723" target="blank"><img align="center" src="https://user-images.githubusercontent.com/90970004/219654575-a7715c13-c3d3-4dbe-929a-addb9661e17d.png" alt="Pranit Dalavi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pranit-dalavi-9a506b264/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/90970004/219654575-a7715c13-c3d3-4dbe-929a-addb9661e17d.png" alt="Pranit Dalavi" height="30" width="40" /></a>
 
 </p>
 
