@@ -18,7 +18,7 @@
 <!-- https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg -->
 <p align="left">              
 <a href="https://auth.geeksforgeeks.org/user/pranitdalavi2723" target="blank"><img align="center" src="https://user-images.githubusercontent.com/90970004/219654575-a7715c13-c3d3-4dbe-929a-addb9661e17d.png" alt="Pranit Dalavi" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pranit-dalavi-9a506b264/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/90970004/219654575-a7715c13-c3d3-4dbe-929a-addb9661e17d.png" alt="Pranit Dalavi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pranit-dalavi-9a506b264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pranit Dalavi" height="30" width="40" /></a>
 
 </p>
 
