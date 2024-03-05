@@ -12,7 +12,7 @@
 - 📫 How to reach me *pranitdalavi2723@gmail.com*
 
 - 📄 Know about my experiences
-  [https://drive.google.com/file/d/1KolmtTy3KIZOZkIXtIir9_tLfc4iVkB7/view?usp=sharing](https://drive.google.com/file/d/18kV-NlsAu1ecEL_DjE1Z8GUGCPG4kaY-/view?usp=sharing)
+  [https://drive.google.com/file/d/1KolmtTy3KIZOZkIXtIir9_tLfc4iVkB7/view?usp=sharing](https://drive.google.com/file/d/1AASyv0a7GLMAWQ7Y53rS6UYmB1XUV9LJ/view?usp=sharing)
 
 ### 🔗 Connect with me
 <!-- https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg -->
